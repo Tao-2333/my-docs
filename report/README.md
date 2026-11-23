@@ -167,7 +167,7 @@ git push origin main
 ![第二次部署后的网站更新效果](images/7-2.png)
 
 - **第二次提交地址**：(https://github.com/Tao-2333/my-docs.git)
-- **第二次 Actions 运行地址**：https://tao-2333.github.io/my-docs/
+- **第二次 Actions 运行地址**：[https://tao-2333.github.io/my-docs/](https://github.com/Tao-2333/my-docs/actions/runs/45203554294)
 
 ---
 
@@ -312,4 +312,4 @@ GitHub Actions 负责执行自动化任务，GitHub Pages 负责托管最终生�
 - **GitHub 源码仓库**：https://github.com/Tao-2333/my-docs
 - **GitHub Pages 网站**：https://tao-2333.github.io/my-docs/
 - **实验报告**：https://github.com/Tao-2333/my-docs/blob/main/report/README.md
-- **第二次部署验证**：待填写实际 Actions 运行地址
+- **第二次部署验证**：(https://github.com/Tao-2333/my-docs/actions/runs/45203554294)
