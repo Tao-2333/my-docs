@@ -166,8 +166,8 @@ git push origin main
 
 ![第二次部署后的网站更新效果](images/7-2.png)
 
-- **第二次提交地址**：待填写实际 Commit 链接
-- **第二次 Actions 运行地址**：待填写实际运行链接
+- **第二次提交地址**：(https://github.com/Tao-2333/my-docs.git)
+- **第二次 Actions 运行地址**：https://tao-2333.github.io/my-docs/
 
 ---
 
